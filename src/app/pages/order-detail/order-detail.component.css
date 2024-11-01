@@ -1,0 +1,10 @@
+.container{
+  
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJ7Eq5xLU_lQPPCNcVYY9WWu9U1ula8UbX0JGmErcLe7AjPTx3SYLp00JQeX25as0bGY&usqp=CAU'); */
+    background-image: url('https://ak.picdn.net/shutterstock/videos/26211230/thumb/1.jpg');
+    background-size: cover;
+}
+div{
+    color: aliceblue;
+    font-size: 16px;
+}

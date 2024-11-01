@@ -1,0 +1,16 @@
+nav{
+    border-radius: 7px;
+    font-size: 17px;
+    width: 100%;
+    padding: 20px;
+
+}
+.heading{
+    
+    background-color: darkslategrey;
+    color: rgb(129, 161, 193);
+    font-size: 34px;
+    font-family:arial;
+    font-style: bold;
+    padding: 0.5%;
+}

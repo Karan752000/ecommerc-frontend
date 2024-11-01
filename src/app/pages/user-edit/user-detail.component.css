@@ -1,0 +1,21 @@
+
+div{
+    color: antiquewhite;
+    font-size: 20px;
+}
+/* div:nth-child(2){
+    font-style:normal;
+    text-decoration: none;
+} */
+.container {
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 40%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7pNiauCpp83pLNzt9rOH9TlLVzBnQBGt-A&usqp=CAU');
+    background-size: cover;
+}
+
+button{
+    padding: 3%;
+    font-size: 16px;
+}
